@@ -22,5 +22,5 @@ To get started with these notebooks, you'll need to set up a Python environment 
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Ammar-Abdelhady-ai/Vision-Language-Model-Fine-Tuning.git)
+   cd Vision-Language-Model-Fine-Tuning
